@@ -23,3 +23,4 @@ How to interpret it:
 Generally, a TDFI value closer to 1 indicates a strong upward trend, while a value closer to -1 indicates a strong downward trend. Values close to zero or in the range of -0.05 to 0.05 suggest a consolidating or ranging market. 
 
 
+![image](https://github.com/user-attachments/assets/df39d3ae-dc8e-458b-8868-efebafc56026)
